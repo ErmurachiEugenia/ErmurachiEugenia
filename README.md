@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ErmurachiEugenia
 - 👀 I’m interested in Web Development, Graphism and UI/UX design
 - 🌱 I’m currently learning Javascript
-- 💞️ I’m looking for an apprenticeship as an UI/UX design
+- 💞️ I’m looking for an apprenticeship as an UI/UX designer in France
 - 📫 Reach me at eugenia.ermurachi@gmail.com or 07 84 98 28 05
 
 <!---
